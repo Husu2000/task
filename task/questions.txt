@@ -1,0 +1,104 @@
+1
+ When computer was first invented?
+ a.1820 	 b.1823
+ c.1834 	 d.1922
+2
+ Which day is celebrated as 'World Computer Literacy day'?
+ a.October 6 	 b.December 2
+ c.October 4 	 d.May 15
+3
+ Who is known as human computer of India?
+ a. Sundar Pichai 	 b.Sathya Nathella
+ c. Shakunthala Devi	 c.Derek o brein
+4
+ 'Do no evil' is the tag line of
+ a. Adobe 	 b. Microsoft
+ c. Linux 	 d. Google
+5
+ Extension of PDF
+ a. Portable Document Format 	 b. Personal Document Format
+ c. Portable Digital format 	 d. Presentation Document Format
+6
+ Which company invented floppy disk?
+ a. Microsoft 	 b. Apple
+ c. Intel 	 d.IBM
+7
+ IC chips are usually made of
+ a. Lead 	 b. Silicon
+ c. Chromium 	 d. Gold
+8
+ Technology no longer protected by copyrights and available to all is
+ a. Proprietary 	 b. Open
+ c. Experimental 	 d. Free
+9
+ In binary language each alphabet is made up of unique combinationof 
+ a. 8 bytes 	 b.8 kbytes
+ c. 8 character 	 d. 8 bits
+10
+ The term bit is short for
+ a. Byte 	 b. Binary language
+ c. Binary digit 	 d.Binary number
+11
+ Who invented graphical use interface(GUI)?
+ a.Microsoft 	 b.Apple
+ c.Xerox 	 d. IBM
+12
+ What is the transfer rate of a satandard USB2.0?
+ a.100Mbit/s 	 b.480 Mbit/s
+ c.1 Gbit/s 	 c. 250 Mbit/c
+13
+ Who invented USB?
+ a. HP 	 b.Samsung
+ c. Intel 	 d. AMD
+1
+ When computer was first invented?
+ a.1820 	 b.1823
+ c.1834 	 d.1922
+2
+ Which day is celebrated as 'World Computer Literacy day'?
+ a.October 6 	 b.December 2
+ c.October 4 	 d.May 15
+3
+ Who is known as human computer of India?
+ a. Sundar Pichai 	 b.Sathya Nathella
+ c. Shakunthala Devi	 c.Derek o brein
+4
+ 'Do no evil' is the tag line of
+ a. Adobe 	 b. Microsoft
+ c. Linux 	 d. Google
+5
+ Extension of PDF
+ a. Portable Document Format 	 b. Personal Document Format
+ c. Portable Digital format 	 d. Presentation Document Format
+6
+ Which company invented floppy disk?
+ a. Microsoft 	 b. Apple
+ c. Intel 	 d.IBM
+7
+ IC chips are usually made of
+ a. Lead 	 b. Silicon
+ c. Chromium 	 d. Gold
+8
+ Technology no longer protected by copyrights and available to all is
+ a. Proprietary 	 b. Open
+ c. Experimental 	 d. Free
+9
+ In binary language each alphabet is made up of unique combinationof 
+ a. 8 bytes 	 b.8 kbytes
+ c. 8 character 	 d. 8 bits
+10
+ The term bit is short for
+ a. Byte 	 b. Binary language
+ c. Binary digit 	 d.Binary number
+11
+ Who invented graphical use interface(GUI)?
+ a.Microsoft 	 b.Apple
+ c.Xerox 	 d. IBM
+12
+ What is the transfer rate of a satandard USB2.0?
+ a.100Mbit/s 	 b.480 Mbit/s
+ c.1 Gbit/s 	 c. 250 Mbit/c
+13
+ Who invented USB?
+ a. HP 	 b.Samsung
+ c. Intel 	 d. AMD
