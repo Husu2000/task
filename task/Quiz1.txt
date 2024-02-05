@@ -1,0 +1,35 @@
+Question: What is the capital of France
+Answer: Paris - 1
+Answer: London - 0
+Answer: Berlin - 0
+Answer: Rome - 0
+
+Question: Who wrote "To Kill a Mockingbird"
+Answer: Harper Lee - 1
+Answer: J.K. Rowling - 0
+Answer: Ernest Hemingway - 0
+Answer: F. Scott Fitzgerald - 0
+
+Question: What is the chemical symbol for water
+Answer: H2O - 1
+Answer: CO2 - 0
+Answer: NaCl - 0
+Answer: O2 - 0
+
+Question: What is the tallest mountain in the world
+Answer: Mount Everest - 1
+Answer: Mount Kilimanjaro - 0
+Answer: K2 - 0
+Answer: Mount Fuji - 0
+
+Question: Who painted the Mona Lisa
+Answer: Leonardo da Vinci - 1
+Answer: Pablo Picasso - 0
+Answer: Vincent van Gogh - 0
+Answer: Michelangelo - 0
+
+Question: What is the largest organ in the human body
+Answer: Skin - 1
+Answer: Liver - 0
+Answer: Heart - 0
+Answer: Brain - 0

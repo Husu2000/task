@@ -54,6 +54,10 @@ public:
 			{
 				option++;
 			}
+			else if (ch == 13)
+			{
+				option = 1;
+			}
 		}
 	}
 
@@ -75,6 +79,10 @@ public:
 			else if (ch == 80)
 			{
 				option++;
+			}
+			else if (ch == 13)
+			{
+				option = 0;
 			}
 		}
 	}

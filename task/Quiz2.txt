@@ -1,0 +1,59 @@
+Question: What is the chemical symbol for gold
+Answer: Au - 1
+Answer: Ag - 0
+Answer: Fe - 0
+Answer: Pb - 0
+
+Question: Who is credited with the theory of relativity
+Answer: Albert Einstein - 1
+Answer: Isaac Newton - 0
+Answer: Galileo Galilei - 0
+Answer: Nikola Tesla - 0
+
+Question: What is the capital of Japan
+Answer: Tokyo - 1
+Answer: Beijing - 0
+Answer: Seoul - 0
+Answer: Bangkok - 0
+
+Question: What is the largest planet in our solar system
+Answer: Jupiter - 1
+Answer: Saturn - 0
+Answer: Neptune - 0
+Answer: Mars - 0
+
+Question: Who wrote "1984"
+Answer: George Orwell - 1
+Answer: Aldous Huxley - 0
+Answer: Ray Bradbury - 0
+Answer: H.G. Wells - 0
+
+Question: What is the chemical symbol for oxygen
+Answer: O - 1
+Answer: H2O - 0
+Answer: O2 - 0
+Answer: CO2 - 0
+
+Question: What is the smallest prime number
+Answer: 2 - 1
+Answer: 1 - 0
+Answer: 3 - 0
+Answer: 0 - 0
+
+Question: Who discovered penicillin
+Answer: Alexander Fleming - 1
+Answer: Louis Pasteur - 0
+Answer: Jonas Salk - 0
+Answer: Robert Koch - 0
+
+Question: What is the melting point of water in Celsius
+Answer: 0°C - 1
+Answer: 100°C - 0
+Answer: -273.15°C - 0
+Answer: 25°C - 0
+
+Question: Who was the first woman to win a Nobel Prize
+Answer: Marie Curie - 1
+Answer: Mother Teresa - 0
+Answer: Rosalind Franklin - 0
+Answer: Ada Lovelace - 0

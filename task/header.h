@@ -469,8 +469,7 @@ void startQuiz()
 
 			if (currentQuestion->getCorrect() == opt)
 				correct++;
-
-			if (opt == 4)
+			else if (opt == 4)
 			{
 				pass++;
 				i--;
